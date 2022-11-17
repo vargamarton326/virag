@@ -1,0 +1,53 @@
+html, body {
+    font-size: 2vw;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+div{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: justify;
+}
+button{
+    background-color: green;
+}
+#i1 {
+    width: 25%;
+    
+}
+#i2 {
+    width: 25%;
+}
+#i3 {
+    width: 25%;
+}
+#i4 {
+    width: 25%;
+}
+#i5 {
+    width: 25%;
+}
+#i6 {
+    width: 25%;
+}
+#i7 {
+    width: 25%;
+}
+#i8 {
+    width: 25%;
+}
+#i9 {
+    width: 25%;
+}
+#i10 {
+    width: 25%;
+}
+#i11 {
+    width: 25%;
+}
+#i12 {
+    width: 25%;
+}
